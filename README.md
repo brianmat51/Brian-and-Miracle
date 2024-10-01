@@ -8,7 +8,7 @@ Mercy is a creative and innovative tech enthusiast, focusing on data analytics
 Together, we combine our diverse skills to create innovative solutions and contribute to exciting projects in the ICT field.
 Our Projects
 Simple Calculator
-Check out our simple calculator built with HTML, CSS, and JavaScript. It's a great example of our front-end development skills and our ability to create user-friendly interfaces.
+Check out our simple calculator built with HTML. It's a great example of our front-end development skills and our ability to create user-friendly interfaces.
 [Add any other projects you've worked on or plan to work on]
 
 
